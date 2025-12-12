@@ -1,0 +1,28 @@
+{
+  "name": "state-proxy",
+  "version": "1.0.0",
+  "main": "proxy-server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsrodriguez99/monstate-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsrodriguez99/monstate-proxy/issues"
+  },
+  "homepage": "https://github.com/edsrodriguez99/monstate-proxy#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
